@@ -1,0 +1,8 @@
+## Interface: 16001
+## Title: ChannelSwitch
+## Notes: Press Tab in the chat box to switch chat channels. Shift+Tab goes backward.
+## Author: Quinic
+## Version: 1.0.0
+## X-License: MIT
+
+ChannelSwitch.lua
